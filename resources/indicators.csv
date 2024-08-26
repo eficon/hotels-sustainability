@@ -1,0 +1,99 @@
+Web,Identificador,Búsqueda,Extracción
+Booking,Booking_Certificados_Sostenibilidad,Certificados y programas de sostenibilidad,Apartado
+Booking,Booking_Residuos,Residuos,Apartado
+Booking,Booking_Agua,Agua,Apartado
+Booking,Booking_Energía,Energía y gases de efecto invernadero,Apartado
+Booking,Booking_Destino,Destino y comunidad,Apartado
+Booking,Booking_Naturaleza,Naturaleza,Apartado
+Booking,Booking_Comentarios,Comentarios,Número
+Booking,Booking_Puntuación,Puntuación,Número
+Booking,Booking_Estrellas,Estrellas,Número
+Google,Google_Certificaciones_Ecológicas,Certificaciones ecológicas/Cert. ecológica,Apartado
+Google,Google_Eficiencia_Energética,Eficiencia energética,Apartado
+Google,Google_Agua,Conservación del agua,Apartado
+Google,Google_Abastecimiento_Sostenible,Abastecimiento sostenible,Apartado
+Google,Google_Residuos,Reducción de residuos,Apartado
+Google,Google_Spa,Spa,Frase
+Google,Google_Piscina,Piscina,Frase
+Google,Google_Gimnasio,Gimnasio,Frase
+Google,Google_Reseñas,Reseñas,Número
+Google,Google_Puntuación,Estrellas,Número
+Google,Google_Accesibilidad,Accesibilidad,Apartado
+Google,Google_Sostenibilidad,Botón Sostenibilidad (ver detalles),Apartado
+Empresa,Empresa_Energía,Energía,Frase
+Empresa,Empresa_Energía_1,Eficiencia Energética/Ahorro energético/uso energético,Frase
+Empresa,Empresa_Energía_2,Carbono/libre de carbono,Frase
+Empresa,Empresa_Energía_3,Energía limpia/energía renovable/energía solar/placas solares/fotovoltaica,Frase
+Empresa,Empresa_Energía_4,LED/iluminación led/bombillas/bajo consumo/iluminación de bajo consumo,Frase
+Empresa,Empresa_Energía_5,Sensor de movimiento/interruptores de ahorro de energía/Termostatos/autoreguladores/termostatos de eficiencia energética,Frase
+Empresa,Empresa_Energía_6,bajo consumo/calefacción/refrigeración/climatización de bajo consumo,Frase
+Empresa,Empresa_Energía_7,Estaciones de recarga/vehículo eléctrico/punto de carga,Frase
+Empresa,Empresa_Energía_8,Doble acristalamiento/ventanas,Frase
+Empresa,Empresa_Agua,Consumo de agua/Agua/poca agua/bajo consumo de agua,Frase
+Empresa,Empresa_Agua_1,Aprovechamiento de agua/temporizadores en grifos/caudal del agua,Frase
+Empresa,Empresa_Agua_2,Limpieza diaria,Frase
+Empresa,Empresa_Agua_3,Sistema de riego/agua depurada,Frase
+Empresa,Empresa_Agua_4,Cambio de toalla/reutilización de toallas/programa de reutilización de toallas/ropa de cama,Frase
+Empresa,Empresa_Agua_5,Agua reciclada/agua de lluvia,Frase
+Empresa,Empresa_Residuos,Residuos/reducción de residuos,Frase
+Empresa,Empresa_Residuos_1,Papeleras de reciclaje/programa de reciclaje/contenedores de reciclaje/reciclaje/reciclado,Frase
+Empresa,Empresa_Residuos_2,desperdicio alimentario/alimentos desperdiciados,Frase
+Empresa,Empresa_Residuos_3,Refrigerador de agua/dispensador de agua/estaciones para llenar botellas de agua/dispensador/dispensadores,Frase
+Empresa,Empresa_Residuos_4,Plástico/no plástico/pajitas/agitadores/botellas de plástico,Frase
+Empresa,Empresa_Residuos_5,Donación/exceso de comida/donación exceso /donación desperdicio alimentario/donación productos de aseo/donación productos de higiene,Frase
+Empresa,Empresa_Residuos_6,sustancias peligrosas/forma segura,Frase
+Empresa,Empresa_Residuos_7,componentes electrónicos/pilas/baterías,Frase
+Empresa,Empresa_Residuos_8,Botes recargables,Frase
+Empresa,Empresa_Residuos_9,Compostable/composta,Frase
+Empresa,Empresa_Residuos_10,Espuma de poliestireno,Frase
+Empresa,Empresa_Emisiones,KWh/Emisiones CO2/Co2/huella de carbono/HCMI4/emisiones de carbono,Frase
+Empresa,Empresa_Productos_Limpieza,Productos ecológicos/biodegradable/productos respetuosos/abastecimiento sostenible/aseo ecológico,Frase
+Empresa,Empresa_Comida,vegetariana/vegana/menú vegetariano/menú vegano/intolerancia,Frase
+Empresa,Empresa_Comida_1,bebidas y alimentos ecológicos/ecológica,Frase
+Empresa,Empresa_Comida_2,Marisco /origen responsable,Frase
+Empresa,Empresa_Comida_3,Huevos ecológicos/gallinas,Frase
+Empresa,Empresa_Comunidad,compra responsable/abastecimiento sostenible/comercio justo,Frase
+Empresa,Empresa_Comunidad_1,productos de proximidad/origen local/procede de la zona/proveedores locales/empresas locales,Frase
+Empresa,Empresa_Comunidad_2,actividades & tours/guías locales/excursiones/actividades locales/visitas guiadas/Excursion/descubra su zona/qué hacer/qué ver/turismo activo/turismo familiar,Frase
+Empresa,Empresa_Comunidad_3,Artistas locales/cultura local/ecosistemas/patrimonio local/turismo cultural,Frase
+Empresa,Empresa_Comunidad_4,proyectos/comunidad/inversión en comunidad/proyectos de la comunidad,Frase
+Empresa,Empresa_Comunidad_5,Empleo local/emprendedores locales,Frase
+Empresa,Empresa_Igualdad,igualdad/tolerancia/acoso/discriminación/tolerancia/interculturalidad,Frase
+Empresa,Empresa_Igualdad_2,oportunidades de empleo/formación/promoción,Frase
+Empresa,Empresa_accesibilidad,accesibilidad/accesible para personas en silla de ruedas/aparcamiento adaptado/ascensor adaptado/piscina adaptada/habitaciones adaptadas/adaptado,Frase
+Empresa,Empresa_Naturaleza,Espacios verdes/jardín/azotea verde,Frase
+Empresa,Empresa_Naturaleza_1,Bicicletas/parking de bicicletas/estacionamiento de bicicletas/alquiler de bicicletas,Frase
+Empresa,Empresa_Naturaleza_2,Cautividad/animales salvajes,Frase
+Empresa,Empresa_Edificios_Sostenibles,Materiales sostenibles/arquitectura sostenible/bioclimático/edificios bioclimáticos/edificios sostenibles,Frase
+Empresa,Empresa_Redes,Twitter/Facebook/Instagram/Youtube,Palabra
+Empresa,Empresa_Certificaciones,Programa de sostenibilidad,Frase
+Empresa,Empresa_Certificaciones_1,"ISO 21401
+ISO 14001
+ISO 50001
+ISO 14024
+Hilton LightStay
+EMAS
+Etiqueta Ecológica europea
+Etiqueta AENOR Medioambiente
+Distintivo de Garantía de Calidad Ambiental
+Estándar Biosphere Responsible Tourism
+BREEAM
+Bureau Veritas
+Control Union
+EarthCheck
+Certificación GREAT Green Deal
+Green Globe
+Estándar Green Growth 2050
+Green Key
+Green Key Eco Rating
+Green Seal
+Estándar Green Star Hotel
+Estándar Green Tourism Active
+Estándar Quality and Sustainability de Hostelling International
+Estándar Hoteles más Verdes (AHT)
+LEED
+Estándar de turismo sostenible para servicios de alojamiento de Preferred by Nature
+Certificación Pug de TOFTigers Initiative
+Estándar de Travelife para hoteles y alojamientos
+United Certification Systems Limited
+Vireo Srl",Palabra
